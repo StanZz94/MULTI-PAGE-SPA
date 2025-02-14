@@ -1,5 +1,4 @@
 export default function Home() {
-    return <>
-    <p> hello</p>
-    </>
+    
+    return <h1>Home Page</h1>
 }
